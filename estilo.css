@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(50,100,200);
+ 
+}
+
+
+header {
+    color:white;
+    text-align: center;
+}
+
+section {
+  margin: auto;
+  background-color: white;
+  border-radius: 15px;
+  width: 500px;
+  padding: 10px;
+  font: normal 15pt Arial;
+  box-shadow: 5px 5px 5px rgba(0,0,0, .7);
+}
+
+section div#tabuada {
+  border-color: #000;
+
+}
+
+footer {
+  color:white;
+  font-style: italic;
+  text-align: center;
+}
